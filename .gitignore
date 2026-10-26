@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# Storage & media
+storage/uploads/
+storage/clips/
+*.db
+backend/tests/fixtures/
+
+# Next.js & node
+node_modules/
+.next/
+out/
+build/
+*.log
+.env
