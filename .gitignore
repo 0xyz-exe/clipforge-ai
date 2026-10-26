@@ -6,6 +6,7 @@ __pycache__/
 # Storage & media
 storage/uploads/
 storage/clips/
+backend/storage/
 *.db
 backend/tests/fixtures/
 
